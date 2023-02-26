@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 # Load the billiards table image
 table = cv2.imread("table.jpg")
